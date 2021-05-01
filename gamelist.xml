@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./2048.sh</path>
+		<name>2048</name>
+		<image>./media/2048.png</image>
+	</game>
+	<game>
+		<path>./Cannonball.sh</path>
+		<name>Cannonball</name>
+		<image>./media/Cannonball.png</image>
+	</game>
+	<game>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
+		<image>./media/Cave Story.png</image>
+	</game>
+	<game>
+		<path>./Commander Genius.sh</path>
+		<name>Commander Genius</name>
+		<image>./media/Commander Genius.png</image>
+	</game>
+	<game>
+		<path>./Devilutionx.sh</path>
+		<name>Devilutionx</name>
+		<image>./media/Devilutionx.png</image>
+	</game>
+	<game>
+		<path>./Doom.sh</path>
+		<name>Doom</name>
+		<image>./media/Doom.png</image>
+	</game>
+	<game>
+		<path>./Doom 2.sh</path>
+		<name>Doom 2</name>
+		<image>./media/Doom 2.png</image>
+	</game>
+	<game>
+		<path>./Half-Life.sh</path>
+		<name>Half-Life</name>
+		<image>./media/Half-Life.png</image>
+	</game>
+	<game>
+		<path>./OpenTyrian.sh</path>
+		<name>OpenTyrian</name>
+		<image>./media/OpenTyrian.png</image>
+	</game>
+	<game>
+		<path>./Quake.sh</path>
+		<name>Quake</name>
+		<image>./media/Quake.png</image>
+	</game>
+	<game>
+		<path>./Quake 2.sh</path>
+		<name>Quake 2</name>
+		<image>./media/Quake 2.png</image>
+	</game>
+	<game>
+		<path>./Rick Dangerous.sh</path>
+		<name>Rick Dangerous</name>
+		<image>./media/Rick Dangerous.png</image>
+	</game>
+	<game>
+		<path>./SDLPoP.sh</path>
+		<name>SDLPoP</name>
+		<image>./media/SDLPoP.png</image>
+	</game>
+	<game>
+		<path>./Sonic 1.sh</path>
+		<name>Sonic 1</name>
+		<image>./media/Sonic 1.png</image>
+	</game>
+	<game>
+		<path>./Sonic 2.sh</path>
+		<name>Sonic 2</name>
+		<image>./media/Sonic 2.png</image>
+	</game>
+	<game>
+		<path>./Sonic CD.sh</path>
+		<name>Sonic CD</name>
+		<image>./media/Sonic CD.png</image>
+	</game>
+	<game>
+		<path>./VVVVVV.sh</path>
+		<name>VVVVVV</name>
+		<image>./media/VVVVVV.png</image>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D.sh</path>
+		<name>Wolfenstein 3D</name>
+		<image>./media/Wolfenstein 3D.png</image>
+	</game>
+</gameList>
