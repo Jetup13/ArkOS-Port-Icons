@@ -16,6 +16,11 @@
 		<image>./media/Cave Story.png</image>
 	</game>
 	<game>
+		<path>./C-Dogs.sh</path>
+		<name>C-Dogs</name>
+		<image>./media/C-Dogs.png</image>
+	</game>
+	<game>
 		<path>./Commander Genius.sh</path>
 		<name>Commander Genius</name>
 		<image>./media/Commander Genius.png</image>
@@ -24,6 +29,11 @@
 		<path>./Devilutionx.sh</path>
 		<name>Devilutionx</name>
 		<image>./media/Devilutionx.png</image>
+	</game>
+	<game>
+		<path>./Dinothawr.sh</path>
+		<name>Dinothawr</name>
+		<image>./media/Dinothawr.png</image>
 	</game>
 	<game>
 		<path>./Doom.sh</path>
@@ -39,6 +49,11 @@
 		<path>./Half-Life.sh</path>
 		<name>Half-Life</name>
 		<image>./media/Half-Life.png</image>
+	</game>
+	<game>
+		<path>./Mr. Boom.sh</path>
+		<name>Mr. Boom</name>
+		<image>./media/Mr. Boom.png</image>
 	</game>
 	<game>
 		<path>./OpenTyrian.sh</path>
@@ -64,6 +79,16 @@
 		<path>./SDLPoP.sh</path>
 		<name>SDLPoP</name>
 		<image>./media/SDLPoP.png</image>
+	</game>
+	<game>
+		<path>./Super Mario War.sh</path>
+		<name>Super Mario War</name>
+		<image>./media/Super Mario War.png</image>
+	</game>
+	<game>
+		<path>./SuperTux.sh</path>
+		<name>SuperTux</name>
+		<image>./media/SuperTux.png</image>
 	</game>
 	<game>
 		<path>./Sonic 1.sh</path>
