@@ -81,6 +81,11 @@
 		<image>./media/SDLPoP.png</image>
 	</game>
 	<game>
+		<path>./Shovel Knight.sh</path>
+		<name>Shovel Knight</name>
+		<image>./media/Shovel Knight.png</image>
+	</game>
+	<game>
 		<path>./Super Mario War.sh</path>
 		<name>Super Mario War</name>
 		<image>./media/Super Mario War.png</image>
