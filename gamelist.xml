@@ -51,6 +51,11 @@
 		<image>./media/Half-Life.png</image>
 	</game>
 	<game>
+		<path>./Maldita Castillas.sh</path>
+		<name>Maldita Castilla</name>
+		<image>./media/Maldita Castilla.png</image>
+	</game>
+	<game>
 		<path>./Mr. Boom.sh</path>
 		<name>Mr. Boom</name>
 		<image>./media/Mr. Boom.png</image>
@@ -86,16 +91,6 @@
 		<image>./media/Shovel Knight.png</image>
 	</game>
 	<game>
-		<path>./Super Mario War.sh</path>
-		<name>Super Mario War</name>
-		<image>./media/Super Mario War.png</image>
-	</game>
-	<game>
-		<path>./SuperTux.sh</path>
-		<name>SuperTux</name>
-		<image>./media/SuperTux.png</image>
-	</game>
-	<game>
 		<path>./Sonic 1.sh</path>
 		<name>Sonic 1</name>
 		<image>./media/Sonic 1.png</image>
@@ -109,6 +104,26 @@
 		<path>./Sonic CD.sh</path>
 		<name>Sonic CD</name>
 		<image>./media/Sonic CD.png</image>
+	</game>
+	<game>
+		<path>./Spelunky.sh</path>
+		<name>Spelunky</name>
+		<image>./media/Spelunky.png</image>
+	</game>
+	<game>
+		<path>./Super Mario War.sh</path>
+		<name>Super Mario War</name>
+		<image>./media/Super Mario War.png</image>
+	</game>
+	<game>
+		<path>./SuperTux.sh</path>
+		<name>SuperTux</name>
+		<image>./media/SuperTux.png</image>
+	</game>
+	<game>
+		<path>./Undertale.sh</path>
+		<name>Undertale</name>
+		<image>./media/Undertale.png</image>
 	</game>
 	<game>
 		<path>./VVVVVV.sh</path>
