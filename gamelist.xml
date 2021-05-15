@@ -6,6 +6,11 @@
 		<image>./media/2048.png</image>
 	</game>
 	<game>
+		<path>./AM2R.sh</path>
+		<name>Another Metroid 2 Remake</name>
+		<image>./media/AM2R.png</image>
+	</game>
+	<game>
 		<path>./Cannonball.sh</path>
 		<name>Cannonball</name>
 		<image>./media/Cannonball.png</image>
