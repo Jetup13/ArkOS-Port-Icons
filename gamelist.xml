@@ -4,51 +4,61 @@
 		<path>./2048.sh</path>
 		<name>2048</name>
 		<image>./media/2048.png</image>
+		<desc>A port of the popular puzzle game 2048 to libretro.</desc>
 	</game>
 	<game>
 		<path>./AM2R.sh</path>
 		<name>Another Metroid 2 Remake</name>
 		<image>./media/AM2R.png</image>
+		<desc>AM2R is a fan made remake of Metroid 2, with new gameplay, updated 16 bit style graphics, and an original soundtrack.</desc>
 	</game>
 	<game>
 		<path>./Cannonball.sh</path>
 		<name>Cannonball</name>
 		<image>./media/Cannonball.png</image>
+		<desc>A port of the Cannonball enhanced OutRun engine to libretro.</desc>
 	</game>
 	<game>
 		<path>./Cave Story.sh</path>
 		<name>Cave Story</name>
 		<image>./media/Cave Story.png</image>
+		<desc>An open-source reimplementation of the Cave Story / Doukutsu engine, ported to libretro.</desc>
 	</game>
 	<game>
 		<path>./C-Dogs.sh</path>
 		<name>C-Dogs</name>
 		<image>./media/C-Dogs.png</image>
+		<desc>C-Dogs SDL is a classic overhead run-and-gun game, supporting up to 4 players in co-op and deathmatch modes.</desc>
 	</game>
 	<game>
 		<path>./Commander Genius.sh</path>
 		<name>Commander Genius</name>
 		<image>./media/Commander Genius.png</image>
+		<desc>Commander Genius is a software piece that interprets the Commander Keen Invasion of the Vorticons and Galaxy series.</desc>
 	</game>
 	<game>
 		<path>./Devilutionx.sh</path>
 		<name>Devilutionx</name>
 		<image>./media/Devilutionx.png</image>
+		<desc>DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features.</desc>
 	</game>
 	<game>
 		<path>./Dinothawr.sh</path>
 		<name>Dinothawr</name>
 		<image>./media/Dinothawr.png</image>
+		<desc>A clever and cute push-the-block-in-a-straight-line puzzle game in the spirit of Kickle Cubicle written from the ground up for libretro.</desc>
 	</game>
 	<game>
 		<path>./Doom.sh</path>
 		<name>Doom</name>
 		<image>./media/Doom.png</image>
+		<desc>Doom is a 1993 first-person shooter game developed by id Software for MS-DOS.</desc>
 	</game>
 	<game>
 		<path>./Doom 2.sh</path>
 		<name>Doom 2</name>
 		<image>./media/Doom 2.png</image>
+		<desc>Doom II is a first-person shooter game by id Software.</desc>
 	</game>
 	<game>
 		<path>./Half-Life.sh</path>
