@@ -145,6 +145,12 @@
 		<desc>Spelunky is a cave exploration / treasure-hunting game inspired by classic platform games and roguelikes, where the goal is to grab as much treasure from the cave as possible.</desc>
 	</game>
 	<game>
+		<path>./sm64.sh</path>
+		<name>Super Mario 64</name>
+		<image>./media/sm64.png</image>
+		<desc>Super Mario 64 decompilation</desc>
+	</game>
+	<game>
 		<path>./Super Mario War.sh</path>
 		<name>Super Mario War</name>
 		<image>./media/Super Mario War.png</image>
