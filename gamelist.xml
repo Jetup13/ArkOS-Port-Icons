@@ -85,6 +85,12 @@
 		<desc>A fun, multiplayer and feature-filled clone of the classic Bomberman series, converted from DOS using asm2c. It includes an advanced CPU AI for single-player sessions.</desc>
 	</game>
 	<game>
+		<path>./OpenJazz.sh</path>
+		<name>OpenJazz</name>
+		<image>./media/OpenJazz.png</image>
+		<desc>OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games</desc>
+	</game>	
+	<game>
 		<path>./OpenTyrian.sh</path>
 		<name>OpenTyrian</name>
 		<image>./media/OpenTyrian.png</image>
@@ -103,6 +109,12 @@
 		<desc>Quake II is a first-person shooter video game released in December 1997. It was developed by id Software and published by Activision.</desc>
 	</game>
 	<game>
+		<path>./RAWGL.sh</path>
+		<name>RAWGL - Another World</name>
+		<image>./media/RAWGL.png</image>
+		<desc>RAWGL is a re-implementation of the engine used in the game Another World.</desc>
+	</game>
+	<game>
 		<path>./Rick Dangerous.sh</path>
 		<name>Rick Dangerous</name>
 		<image>./media/Rick Dangerous.png</image>
@@ -110,7 +122,7 @@
 	</game>
 	<game>
 		<path>./SDLPoP.sh</path>
-		<name>SDLPoP</name>
+		<name>SDL Prince of Persia</name>
 		<image>./media/SDLPoP.png</image>
 		<desc>SDLPoP is an open-source port of Prince of Persia, based on the disassembly of the DOS version, extended with new features.</desc>
 	</game>
@@ -149,6 +161,12 @@
 		<name>Super Mario 64</name>
 		<image>./media/sm64.png</image>
 		<desc>Super Mario 64 decompilation</desc>
+	</game>
+	<game>
+		<path>./sorr.sh</path>
+		<name>Streets of Rage Remake</name>
+		<image>./media/sorr.png</image>
+		<desc>Streets of Rage Remake is a remastered version of the MegaDrive classic. You'll go throughout an immense town fighting against people who try to attack you. There are more than 60 different enemies, you can choose among 16 characters, choose your favourite one and kick asses out there.</desc>
 	</game>
 	<game>
 		<path>./Super Mario War.sh</path>
