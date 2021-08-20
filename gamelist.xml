@@ -13,6 +13,18 @@
 		<desc>AM2R is a fan made remake of Metroid 2, with new gameplay, updated 16 bit style graphics, and an original soundtrack.</desc>
 	</game>
 	<game>
+		<path>./Blues Brothers.sh</path>
+		<name>Blues Brothers</name>
+		<image>./media/Blues Brothers.png</image>
+		<desc>The Blues Brothers are on the run from the law. Take control of either bulky Jake or nippy Elwood in this five-level platform game. You must cross a prison, a river and the big city to reach freedom</desc>
+	</game>
+	<game>
+		<path>./Blues Brothers Jukebox Adventure.sh</path>
+		<name>Blues Brothers Jukebox Adventure</name>
+		<image>./media/Blues Brothers Jukebox Adventure.png</image>
+		<desc>The Blues Brothers: Jukebox Adventure is a video game based on the band The Blues Brothers, and a sequel to The Blues Brothers</desc>
+	</game>
+	<game>
 		<path>./Cannonball.sh</path>
 		<name>Cannonball</name>
 		<image>./media/Cannonball.png</image>
@@ -23,6 +35,12 @@
 		<name>Cave Story</name>
 		<image>./media/Cave Story.png</image>
 		<desc>An open-source reimplementation of the Cave Story / Doukutsu engine, ported to libretro.</desc>
+	</game>
+	<game>
+		<path>./Cave Story-evo.sh</path>
+		<name>Cave Story-evo</name>
+		<image>./media/Cave Story-evo.png</image>
+		<desc>An upgraded open-source reimplementation of the Cave Story / Doukutsu engine.</desc>
 	</game>
 	<game>
 		<path>./C-Dogs.sh</path>
@@ -67,6 +85,12 @@
 		<desc>Half-Life, a First Person Shooter released by Valve & Sierra in 1998, tells the story of a recently graduated theoretical physicist, named Dr. Gordon Freeman, who is working on experiments in relation to teleportation technology with other scientists in the Black Mesa Research Facility</desc>
 	</game>
 	<game>
+		<path>./Heart of Darkness.sh</path>
+		<name>Heart of Darkness</name>
+		<image>./media/Heart of Darkness.png</image>
+		<desc>HODE is a reimplementation of the engine used by the game 'Heart of Darkness' developed by Amazing Studio.</desc>
+	</game>
+	<game>
 		<path>./Hydra Castle Labyrinth.sh</path>
 		<name>Hydra Castle Labyrinth</name>
 		<image>./media/Hydra Castle Labyrinth.png</image>
@@ -97,6 +121,12 @@
 		<desc>OpenTyrian is an open-source port of the DOS game Tyrian.</desc>
 	</game>
 	<game>
+		<path>./Prehistorik 2.sh</path>
+		<name>Prehistorik 2</name>
+		<image>./media/Prehistorik 2.png</image>
+		<desc>Prehistorik 2 is a platform game, the sequel to Prehistorik. It was developed by Titus Interactive for MS-DOS and Amstrad CPC in 1993.</desc>
+	</game>
+	<game>
 		<path>./Quake.sh</path>
 		<name>Quake</name>
 		<image>./media/Quake.png</image>
@@ -113,6 +143,12 @@
 		<name>RAWGL - Another World</name>
 		<image>./media/RAWGL.png</image>
 		<desc>RAWGL is a re-implementation of the engine used in the game Another World.</desc>
+	</game>
+	<game>
+		<path>./REminiscence.sh</path>
+		<name>REminiscence - Flashback</name>
+		<image>./media/REminiscence.png</image>
+		<desc>REminiscence is a re-implementation of the engine used in the game Flashback made by Delphine Software and released in 1992.</desc>
 	</game>
 	<game>
 		<path>./Rick Dangerous.sh</path>
