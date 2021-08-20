@@ -97,7 +97,7 @@
 		<desc>Hydra Castle Labyrinth, originally Meikyuujou Hydra, is a freeware Indie platformer developed by E. Hashimoto.</desc>
 	</game>
 	<game>
-		<path>./Maldita Castillas.sh</path>
+		<path>./Maldita Castilla.sh</path>
 		<name>Maldita Castilla</name>
 		<image>./media/Maldita Castilla.png</image>
 		<desc>Maldita Castilla is an action platformer full of actual myths from Spain and some regions of the medieval Europe</desc>
