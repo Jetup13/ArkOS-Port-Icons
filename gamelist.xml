@@ -103,6 +103,12 @@
 		<desc>Maldita Castilla is an action platformer full of actual myths from Spain and some regions of the medieval Europe</desc>
 	</game>
 	<game>
+		<path>./Moonlight.sh</path>
+		<name>Moonlight - Game Streaming</name>
+		<image>./media/Moonlight.png</image>
+		<desc>Moonlight is an open source implementation of NVIDIA's GameStream protocol</desc>
+	</game>
+	<game>
 		<path>./Mr. Boom.sh</path>
 		<name>Mr. Boom</name>
 		<image>./media/Mr. Boom.png</image>
