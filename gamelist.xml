@@ -79,6 +79,12 @@
 		<desc>Doom II is a first-person shooter game by id Software.</desc>
 	</game>
 	<game>
+		<path>./Duke Nukem 3D.sh</path>
+		<name>Duke Nukem 3D</name>
+		<image>./media/Duke Nukem 3D.png</image>
+		<desc>Duke Nukem 3D is a first-person shooter video game developed by 3D Realms. It is a sequel to the platform games Duke Nukem and Duke Nukem II, published by 3D Realms.</desc>
+	</game>
+	<game>
 		<path>./Freedom Planet.sh</path>
 		<name>Freedom Planet</name>
 		<image>./media/Freedom Planet.png</image>
@@ -121,6 +127,12 @@
 		<desc>A fun, multiplayer and feature-filled clone of the classic Bomberman series, converted from DOS using asm2c. It includes an advanced CPU AI for single-player sessions.</desc>
 	</game>
 	<game>
+		<path>./NAM.sh</path>
+		<name>NAM</name>
+		<image>./media/NAM.png</image>
+		<desc>NAM, sold under the name Napalm in Walmart retail outlets, is a commercial Build engine first-person shooter video game set during the Vietnam War, developed by TNT Team and published by GT Interactive Software.</desc>
+	</game>
+	<game>
 		<path>./OpenJazz.sh</path>
 		<name>OpenJazz</name>
 		<image>./media/OpenJazz.png</image>
@@ -157,6 +169,18 @@
 		<desc>RAWGL is a re-implementation of the engine used in the game Another World.</desc>
 	</game>
 	<game>
+		<path>./Redneck Rampage.sh</path>
+		<name>Redneck Rampage</name>
+		<image>./media/Redneck Rampage.png</image>
+		<desc>Redneck Rampage is a 1997 first-person shooter game developed by Xatrix Entertainment and published by Interplay.</desc>
+	</game>
+	<game>
+		<path>./Redneck Rampage Rides Again.sh</path>
+		<name>Redneck Rampage Rides Again</name>
+		<image>./media/Redneck Rampage Rides Again.png</image>
+		<desc>Redneck Rampage Rides Again is the sequel to Redneck Rampage, and includes 14 new single player levels, 7 new multiplayer levels, new enemies, weapons, and vehicles, including motorcycles and swamp boats.</desc>
+	</game>
+	<game>
 		<path>./REminiscence.sh</path>
 		<name>REminiscence - Flashback</name>
 		<image>./media/REminiscence.png</image>
@@ -167,6 +191,12 @@
 		<name>Rick Dangerous</name>
 		<image>./media/Rick Dangerous.png</image>
 		<desc>Rick Dangerous is a platform game developed by Core Design.</desc>
+	</game>
+	<game>
+		<path>./Rocks n Diamonds.sh</path>
+		<name>Rocks n Diamonds</name>
+		<image>./media/Rocks n Diamonds.png</image>
+		<desc>Rocks'n'Diamonds is a scrolling tile-based computer puzzle game that can be described as a combined Boulder Dash, Supaplex, Emerald Mine, Solomon's Key, and Sokoban clone.</desc>
 	</game>
 	<game>
 		<path>./SDLPoP.sh</path>
@@ -211,7 +241,7 @@
 		<desc>Super Mario 64 decompilation.</desc>
 	</game>
 	<game>
-		<path>./sorr.sh</path>
+		<path>./SorR.sh</path>
 		<name>Streets of Rage Remake</name>
 		<image>./media/sorr.png</image>
 		<desc>Streets of Rage Remake is a remastered version of the MegaDrive classic. You'll go throughout an immense town fighting against people who try to attack you. There are more than 60 different enemies, you can choose among 16 characters, choose your favourite one and kick asses out there.</desc>
@@ -227,6 +257,24 @@
 		<name>SuperTux</name>
 		<image>./media/SuperTux.png</image>
 		<desc>SuperTux is a open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games.</desc>
+	</game>
+	<game>
+		<path>./Tomb Raider 1.sh</path>
+		<name>Tomb Raider 1</name>
+		<image>./media/Tomb Raider 1.png</image>
+		<desc>Tomb Raider is a 1996 action-adventure video game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port.</desc>
+	</game>
+	<game>
+		<path>./Tomb Raider 2.sh</path>
+		<name>Tomb Raider 2</name>
+		<image>./media/Tomb Raider 2.png</image>
+		<desc>Tomb Raider II is an action-adventure platform game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port.</desc>
+	</game>
+	<game>
+		<path>./Tomb Raider 3.sh</path>
+		<name>Tomb Raider 3</name>
+		<image>./media/Tomb Raider 3.png</image>
+		<desc>Tomb Raider III: Adventures of Lara Croft is an action-adventure video game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port.</desc>
 	</game>
 	<game>
 		<path>./Undertale.sh</path>
