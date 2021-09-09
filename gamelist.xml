@@ -16,13 +16,13 @@
 		<path>./Blues Brothers.sh</path>
 		<name>Blues Brothers</name>
 		<image>./media/Blues Brothers.png</image>
-		<desc>The Blues Brothers are on the run from the law. Take control of either bulky Jake or nippy Elwood in this five-level platform game. You must cross a prison, a river and the big city to reach freedom</desc>
+		<desc>The Blues Brothers are on the run from the law. Take control of either bulky Jake or nippy Elwood in this five-level platform game. You must cross a prison, a river and the big city to reach freedom.</desc>
 	</game>
 	<game>
 		<path>./Blues Brothers Jukebox Adventure.sh</path>
 		<name>Blues Brothers Jukebox Adventure</name>
 		<image>./media/Blues Brothers Jukebox Adventure.png</image>
-		<desc>The Blues Brothers: Jukebox Adventure is a video game based on the band The Blues Brothers, and a sequel to The Blues Brothers</desc>
+		<desc>The Blues Brothers: Jukebox Adventure is a video game based on the band The Blues Brothers, and a sequel to The Blues Brothers.</desc>
 	</game>
 	<game>
 		<path>./Cannonball.sh</path>
@@ -79,10 +79,16 @@
 		<desc>Doom II is a first-person shooter game by id Software.</desc>
 	</game>
 	<game>
+		<path>./Freedom Planet.sh</path>
+		<name>Freedom Planet</name>
+		<image>./media/Freedom Planet.png</image>
+		<desc>Freedom Planet is a combat-based platform adventure that pits a spunky dragon girl and her friends against an alien attack force.</desc>
+	</game>
+	<game>
 		<path>./Half-Life.sh</path>
 		<name>Half-Life</name>
 		<image>./media/Half-Life.png</image>
-		<desc>Half-Life, a First Person Shooter released by Valve & Sierra in 1998, tells the story of a recently graduated theoretical physicist, named Dr. Gordon Freeman, who is working on experiments in relation to teleportation technology with other scientists in the Black Mesa Research Facility</desc>
+		<desc>Half-Life, a First Person Shooter released by Valve & Sierra in 1998, tells the story of a recently graduated theoretical physicist, named Dr. Gordon Freeman, who is working on experiments in relation to teleportation technology with other scientists in the Black Mesa Research Facility.</desc>
 	</game>
 	<game>
 		<path>./Heart of Darkness.sh</path>
@@ -100,13 +106,13 @@
 		<path>./Maldita Castilla.sh</path>
 		<name>Maldita Castilla</name>
 		<image>./media/Maldita Castilla.png</image>
-		<desc>Maldita Castilla is an action platformer full of actual myths from Spain and some regions of the medieval Europe</desc>
+		<desc>Maldita Castilla is an action platformer full of actual myths from Spain and some regions of the medieval Europe.</desc>
 	</game>
 	<game>
 		<path>./Moonlight.sh</path>
 		<name>Moonlight - Game Streaming</name>
 		<image>./media/Moonlight.png</image>
-		<desc>Moonlight is an open source implementation of NVIDIA's GameStream protocol</desc>
+		<desc>Moonlight is an open source implementation of NVIDIA's GameStream protocol.</desc>
 	</game>
 	<game>
 		<path>./Mr. Boom.sh</path>
@@ -118,7 +124,7 @@
 		<path>./OpenJazz.sh</path>
 		<name>OpenJazz</name>
 		<image>./media/OpenJazz.png</image>
-		<desc>OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games</desc>
+		<desc>OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games.</desc>
 	</game>	
 	<game>
 		<path>./OpenTyrian.sh</path>
@@ -136,7 +142,7 @@
 		<path>./Quake.sh</path>
 		<name>Quake</name>
 		<image>./media/Quake.png</image>
-		<desc>Quake is a first-person shooter video game developed by id Software and published by GT Interactive in 1996</desc>
+		<desc>Quake is a first-person shooter video game developed by id Software and published by GT Interactive in 1996.</desc>
 	</game>
 	<game>
 		<path>./Quake 2.sh</path>
@@ -202,7 +208,7 @@
 		<path>./sm64.sh</path>
 		<name>Super Mario 64</name>
 		<image>./media/sm64.png</image>
-		<desc>Super Mario 64 decompilation</desc>
+		<desc>Super Mario 64 decompilation.</desc>
 	</game>
 	<game>
 		<path>./sorr.sh</path>
@@ -226,7 +232,7 @@
 		<path>./Undertale.sh</path>
 		<name>Undertale</name>
 		<image>./media/Undertale.png</image>
-		<desc>Undertale is a 2D role-playing video game created by indie developer Toby Fox</desc>
+		<desc>Undertale is a 2D role-playing video game created by indie developer Toby Fox.</desc>
 	</game>
 	<game>
 		<path>./VVVVVV.sh</path>
