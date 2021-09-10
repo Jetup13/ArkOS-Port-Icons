@@ -25,6 +25,12 @@
 		<desc>The Blues Brothers: Jukebox Adventure is a video game based on the band The Blues Brothers, and a sequel to The Blues Brothers.</desc>
 	</game>
 	<game>
+		<path>./Bermuda Syndrome.sh</path>
+		<name>Bermuda Syndrome</name>
+		<image>./media/Bermuda Syndrome.png</image>
+		<desc>Bermuda Syndrome is a PC game developed by Century Interactive and published by BMG Interactive in 1995.</desc>
+	</game>
+	<game>
 		<path>./Cannonball.sh</path>
 		<name>Cannonball</name>
 		<image>./media/Cannonball.png</image>
