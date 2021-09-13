@@ -274,13 +274,13 @@
 		<path>./Tomb Raider 2.sh</path>
 		<name>Tomb Raider 2</name>
 		<image>./media/Tomb Raider 2.png</image>
-		<desc>Tomb Raider II is an action-adventure platform game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port.</desc>
+		<desc>Tomb Raider II is an action-adventure platform game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port. Uncompletable</desc>
 	</game>
 	<game>
 		<path>./Tomb Raider 3.sh</path>
 		<name>Tomb Raider 3</name>
 		<image>./media/Tomb Raider 3.png</image>
-		<desc>Tomb Raider III: Adventures of Lara Croft is an action-adventure video game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port.</desc>
+		<desc>Tomb Raider III: Adventures of Lara Croft is an action-adventure video game developed by Core Design and published by Eidos Interactive. OpenLara is used in this port. Uncompletable</desc>
 	</game>
 	<game>
 		<path>./Undertale.sh</path>
@@ -299,5 +299,11 @@
 		<name>Wolfenstein 3D</name>
 		<image>./media/Wolfenstein 3D.png</image>
 		<desc>Wolfenstein 3D is a first-person shooter video game developed by id Software and published by Apogee Software and FormGen.</desc>
+	</game>
+	<game>
+		<path>./World War II GI.sh</path>
+		<name>World War II GI</name>
+		<image>./media/World War II GI.png</image>
+		<desc>World War II GI is a first-person shooter video game set during the events of World War II. Developed by TNT Team and published by GT Interactive, the game was released in 1999 as the direct sequel to NAM, which was released the year prior.</desc>
 	</game>
 </gameList>
