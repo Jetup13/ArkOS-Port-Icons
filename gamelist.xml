@@ -193,6 +193,12 @@
 		<desc>REminiscence is a re-implementation of the engine used in the game Flashback made by Delphine Software and released in 1992.</desc>
 	</game>
 	<game>
+		<path>./Return to Castle Wolfenstein.sh</path>
+		<name>Return to Castle Wolfenstein</name>
+		<image>./media/Return to Castle Wolfenstein.png</image>
+		<desc>Return to Castle Wolfenstein is a first-person shooter video game published by Activision, released on November 19, 2001.</desc>
+	</game>
+	<game>
 		<path>./Rick Dangerous.sh</path>
 		<name>Rick Dangerous</name>
 		<image>./media/Rick Dangerous.png</image>
