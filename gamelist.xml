@@ -139,6 +139,12 @@
 		<desc>NAM, sold under the name Napalm in Walmart retail outlets, is a commercial Build engine first-person shooter video game set during the Vietnam War, developed by TNT Team and published by GT Interactive Software.</desc>
 	</game>
 	<game>
+		<path>./nKaruga.sh</path>
+		<name>nKaruga</name>
+		<image>./media/nKaruga.png</image>
+		<desc>nKaruga is a IKaruga demake by matref.</desc>
+	</game>
+	<game>
 		<path>./OpenJazz.sh</path>
 		<name>OpenJazz</name>
 		<image>./media/OpenJazz.png</image>
