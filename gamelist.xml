@@ -31,6 +31,18 @@
 		<desc>Bermuda Syndrome is a PC game developed by Century Interactive and published by BMG Interactive in 1995.</desc>
 	</game>
 	<game>
+		<path>./Blake Stone - Aliens of Gold.sh</path>
+		<name>Blake Stone - Aliens of Gold</name>
+		<image>./media/Blake Stone - Aliens of Gold.png</image>
+		<desc>Only you can help British Intelligence agent Blake Stone penetrate the top-secret locations before Goldfire unleashes his minions!</desc>
+	</game>
+	<game>
+		<path>./Blake Stone - Planet Strike.sh</path>
+		<name>Blake Stone - Planet Strike</name>
+		<image>./media/Blake Stone - Planet Strike.png</image>
+		<desc>Once again, British Intelligence agent Blake Stone will find himself in a life or death struggle to determine humanity's future. Up against absurd odds and the largest assortment of hideous creatures and armed guards ever amassed, Blake embarks upon his most dangerous mission ever, classified: Planet Strike!</desc>
+	</game>
+	<game>
 		<path>./Cannonball.sh</path>
 		<name>Cannonball</name>
 		<image>./media/Cannonball.png</image>
@@ -97,6 +109,12 @@
 		<desc>Freedom Planet is a combat-based platform adventure that pits a spunky dragon girl and her friends against an alien attack force.</desc>
 	</game>
 	<game>
+		<path>./Fheroes2.sh</path>
+		<name>Free Heroes of Might and Magic II</name>
+		<image>./media/Fheroes2.png</image>
+		<desc>Free Heroes of Might and Magic II (fheroes2) is a recreation of HoMM2 game engine.</desc>
+	</game>
+	<game>
 		<path>./Half-Life.sh</path>
 		<name>Half-Life</name>
 		<image>./media/Half-Life.png</image>
@@ -113,6 +131,12 @@
 		<name>Hydra Castle Labyrinth</name>
 		<image>./media/Hydra Castle Labyrinth.png</image>
 		<desc>Hydra Castle Labyrinth, originally Meikyuujou Hydra, is a freeware Indie platformer developed by E. Hashimoto.</desc>
+	</game>
+	<game>
+		<path>./Iconoclasts.sh</path>
+		<name>Iconoclasts</name>
+		<image>./media/Iconoclasts.png</image>
+		<desc>Join renegade mechanic Robin and uncover the secrets of a dying planet.</desc>
 	</game>
 	<game>
 		<path>./Maldita Castilla.sh</path>
